@@ -1,3 +1,3 @@
-class ConstStrings{
-  
+class ConstString{
+ static const String logo = "SEM Shoppy" ;
 }

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_dashboard/mainpg.dart';
+import 'package:grocery_dashboard/screens/mainpg.dart';
 
 void main() {
   runApp(MyApp());
